@@ -1,0 +1,48 @@
+#carsav{
+    color: azure; margin-left: 650px;letter-spacing: 10px;font-family:'Times New Roman', Times, serif ;
+}
+
+#ca{
+    text-align: center;color: black; text-decoration: none; font-family: 'Times New Roman', Times, serif;letter-spacing: 4px; margin-bottom: 50px;
+}
+
+#ca a{
+    color: black;font-family: 'Times New Roman', Times, serif;font-size: xx-large;border: 3px solid black;
+}
+
+#rs{
+    text-align: center;color: black; text-decoration: none; font-family: 'Times New Roman', Times, serif;letter-spacing: 4px;margin-bottom: 50px;
+}
+
+#rs a{
+    color: black;font-family: 'Times New Roman', Times, serif;font-size: xx-large;border:3px solid black;
+}
+
+.cur{
+    font-size: 40px;font-family: 'Times New Roman', Times, serif;text-align: center;letter-spacing: 4px; margin-top: 30px; margin-bottom: 50px;
+}
+
+.po{
+    background: snow
+}
+
+#ca a:hover{
+    text-decoration: none;color: rgb(241, 7, 7); background-color: beige;
+}
+
+#rs a:hover{
+    text-decoration: none;color: rgb(255, 0, 0); background-color: beige;
+}
+
+#foot img{
+    height: 80px; width: 80px;
+ }
+ 
+ #foot {
+    text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;padding-top: 25px;;border: 3px solid rgb(0, 0, 0);
+ }
+
+ 
+#foot h2{
+    color: black;
+ }
