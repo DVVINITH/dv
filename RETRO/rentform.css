@@ -1,0 +1,41 @@
+.buy{
+    color:rgb(236, 233, 213); text-align: center;
+    font-family: 'Times New Roman', Times, serif;font-size: 50px;
+    font-weight: bolder;letter-spacing: 7px;
+}
+.row{display: grid;
+     grid-template-columns:auto auto ;}
+
+.form-control{
+    margin-top: 10px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif; background: transparent;
+     color: azure; border: 2px solid azure;
+}
+::placeholder{
+    color: azure;
+}
+.grid1{
+    margin-left: 250px;
+    font-size: x-large;
+}
+blockquote {text-align: center;
+font-size: xx-large; color:rgb(226, 222, 197);}
+
+
+.but{
+    padding: 15px;
+margin-top: 30px;
+    background-color: black;
+    color: azure;
+}
+.font {
+    font-family: 'Times New Roman', Times, serif; color: azure;
+}
+
+body{
+    background-image: url(./images/rent\ background.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+}

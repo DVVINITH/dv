@@ -1,0 +1,40 @@
+.buy{
+    color:rgb(252, 41, 217); text-align: center;
+    font-family: 'Times New Roman', Times, serif;font-size: 50px;
+    font-weight: bolder;letter-spacing: 7px;
+}
+
+
+.form-control{
+    margin-top: 10px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif; background: transparent;
+     color: azure; border: 2px solid azure;
+}
+::placeholder{
+    color: rgb(235, 220, 8);font-weight: bolder;
+}
+
+blockquote {text-align: center;
+font-size: xx-large; color:rgb(255, 42, 173);}
+
+
+
+.font {
+    font-family: 'Times New Roman', Times, serif; color: azure;
+}
+
+body{
+    background-image: url(./images/sell\ bzckground.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;font-weight: bolder;
+}
+
+#qwe{
+    margin-top: 10px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif; background: transparent;
+     color: azure; border: 2px solid azure;
+}

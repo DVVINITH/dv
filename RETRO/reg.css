@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(110deg,#43BFE3,#cb52dd) ;
+  
+}
+
+
+
+.container{
+    width: 100%;
+    max-width: 750px;
+    background-color:#86A8cf;
+    margin-top: 150px;
+    padding-bottom: 15px;
+    
+
+
+}
+.container .title{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #06142E;
+    padding: 15px;
+    letter-spacing: 3px;
+
+}
+
+.details{
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 3px;
+    
+}
+.details input {
+    background: transparent;
+}
+::placeholder{
+    color: whitesmoke;
+    letter-spacing: 3px;
+}
+input{
+    height: 30px;
+}
